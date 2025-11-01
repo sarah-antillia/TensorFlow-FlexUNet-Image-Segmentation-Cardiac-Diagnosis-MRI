@@ -362,7 +362,8 @@ Gabriele Valvano, Andrea Leo, Sotirios A. Tsaftaris <br>
 <br><br>
 
 <b>3. An Exploration of 2D and 3D Deep Learning Techniques for Cardiac MR Image Segmentation</b>
- Christian F. Baumgartner, Lisa M. Koch, Marc Pollefeys, Ender Konukoglu<br.
+ Christian F. Baumgartner, Lisa M. Koch, Marc Pollefeys, Ender Konukoglu
+<br>
 <a href="https://arxiv.org/pdf/1709.04496">https://arxiv.org/pdf/1709.04496</a>
 <br><br>
 
