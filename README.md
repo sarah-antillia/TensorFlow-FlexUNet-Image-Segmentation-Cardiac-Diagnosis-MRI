@@ -12,8 +12,6 @@ which was derived by us from <br><br>
 ACDC Dataset
 </b>
 </a>
-
-<br>
 <br>
 <hr>
 <b>Acutual Image Segmentation for 512x512 pixels Cardiac images</b><br>
